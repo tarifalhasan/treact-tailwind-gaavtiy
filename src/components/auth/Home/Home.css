@@ -1,0 +1,19 @@
+.hero-decs > h1 {
+  font-style: normal;
+  font-weight: 500;
+
+  /* or 89% */
+
+  color: #ffffff;
+}
+.title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  /* or 122% */
+
+  color: #ffffff;
+
+  opacity: 0.5;
+}

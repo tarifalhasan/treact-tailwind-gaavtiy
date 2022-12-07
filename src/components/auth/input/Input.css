@@ -1,0 +1,12 @@
+input:invalid[focused="true"] {
+  border: 1px solid red;
+}
+input:invalid[focused="false"] {
+  border: 1px solid #fff;
+}
+input {
+  border: 1px solid #00dcc3;
+}
+input:-internal-autofill-selected {
+  background-color: hsl(0, 0%, 0%);
+}
